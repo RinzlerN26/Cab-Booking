@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607584047 source:d:\nishant.btech\sdf-lab\nishant.programs\mini-project-lab-b\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
